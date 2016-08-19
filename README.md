@@ -1,5 +1,7 @@
 # Alfred Workflows
 
+Collection of personal Alfred Workflows. Use at your own risk.
+
 ## ibangen
 
 Generate a random Internation Bank Account Number using generateiban.com and paste to clipboard/active app.
